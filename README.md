@@ -16,9 +16,9 @@ Trained on Kaggle GPU, tracked with Weights & Biases, and published to Hugging F
 
 | Metric     | Score    |
 |------------|----------|
-| Accuracy   | 0.59688  |   ← fill from your eval output
-| F1 Score   | 0.59646  |   ← fill from your eval output
-| Eval Loss  | 2.27601  |   ← fill from your eval output
+| Accuracy   | 0.584375 |   ← fill from your eval output
+| F1 Score   | 0.577125 |   ← fill from your eval output
+| Eval Loss  | 2.334400 |   ← fill from your eval output
 
 ## Links
 -GitHub: https://github.com/Ashish-g25ait2051/G25AIT2051_mlops-assignment2
