@@ -21,7 +21,7 @@ Trained on Kaggle GPU, tracked with Weights & Biases, and published to Hugging F
 | Eval Loss  | 2.334400 |   ← fill from your eval output
 
 ## Links
--GitHub: https://github.com/Ashish-g25ait2051/G25AIT2051_mlops-assignment2
+- GitHub: https://github.com/Ashish-g25ait2051/G25AIT2051_mlops-assignment2
 - Kaggle Notebook: https://www.kaggle.com/code/ashishkg25ait2051/g25ait2051-assignment-2-final
 - Hugging Face Model: https://huggingface.co/Ashish-G25AIT2051/distilbert-goodreads-genres
 - W&B Dashboard: https://wandb.ai/g25ait2051-prom-iit-rajasthan/G25AIT2051_mlops-assignment2_Final/workspace?nw=nwuserg25ait2051
